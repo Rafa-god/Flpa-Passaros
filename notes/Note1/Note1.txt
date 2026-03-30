@@ -1,0 +1,9 @@
+Tela de jogo
+Fundo de jogo
+Background
+
+Tela inicial
+
+
+
+Tela loja
