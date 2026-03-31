@@ -1,6 +1,15 @@
 Tela de jogo
 Fundo de jogo
 Background
+Colocar elas na room
+Criar as layers do background e colocar o background na layer
+
+Player!!!
+Cair
+Subir ao bater a asa (apertar espaço)
+O passaro so pode bater asa quando eu apertar espaço
+
+Bater nos obstaculos
 
 Tela inicial
 
