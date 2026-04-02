@@ -8,8 +8,14 @@ Player!!!
 Cair
 Subir ao bater a asa (apertar espaço)
 O passaro so pode bater asa quando eu apertar espaço
-
 Bater nos obstaculos
+
+Efeito de morte do player
+Pare tudo
+ Player não consegue bater asa
+ o background vai parar
+
+
 
 Tela inicial
 
