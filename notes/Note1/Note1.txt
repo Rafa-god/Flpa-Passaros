@@ -15,6 +15,17 @@ Pare tudo
  Player não consegue bater asa
  o background vai parar
 
+Passaro 
+Importar sprite
+criar objeto
+Crial layer
+ir para esquerda
+Colidir com o player
+
+Gerção prcedural do leve
+arvore
+de tempos em tempos ele vai criar um arvore em um posição especifa
+
 
 
 Tela inicial

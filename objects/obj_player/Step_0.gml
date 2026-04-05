@@ -2,8 +2,28 @@
 
 if (global.perdeu == true) {
 		
-		//Indo para tras
-		hspeed = - 2;
 		//Girando
-		image_angle = +2;
+		image_angle +=2;
+		
+
 }
+else {
+//Checando se eu sai por cima ou por baixo
+	if ( y >= 352 or y <= 0) {
+		perde_jogo()
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

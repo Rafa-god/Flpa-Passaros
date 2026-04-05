@@ -13,6 +13,7 @@ if (image_index < 1) {
 	image_speed = 1;
 	image_index = 1;
 	vspeed = -5;
+	//Indo para tras
 }
 
 
