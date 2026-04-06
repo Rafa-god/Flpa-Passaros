@@ -7,7 +7,8 @@ if (global.perdeu == true) {
 		
 
 }
-else {
+else //Eu ainda não perdi o jogo
+{
 //Checando se eu sai por cima ou por baixo
 	if ( y >= 352 or y <= 0) {
 		perde_jogo()

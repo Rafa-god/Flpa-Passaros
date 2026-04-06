@@ -1,1 +1,0 @@
-instance_create_layer(832,64,"carcara", obj_cara);

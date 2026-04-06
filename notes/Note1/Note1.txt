@@ -25,7 +25,8 @@ Colidir com o player
 Gerção prcedural do leve
 arvore
 de tempos em tempos ele vai criar um arvore em um posição especifa
-
+Passáros!
+Intervalo de criação dos passáros seja maior do que as das arvores
 
 
 Tela inicial
