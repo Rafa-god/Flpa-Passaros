@@ -34,6 +34,8 @@ Eu quero ganhar pontos o tempo todo se eu não perdi o jogo
 Sistema de level
 Ganhando levels conforme a gente ganha pontos
 
+Conforme eu aumento de level eu aumento a velocidade de todo mundo
+
 Tela inicial
 
 
