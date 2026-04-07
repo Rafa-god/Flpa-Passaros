@@ -30,7 +30,9 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "ForcedPrefabProjectReferences":[],
+  "ForcedPrefabProjectReferences":[
+    {"link":"io.gamemaker.sdfshaders-1.0.0","name":"io.gamemaker.sdfshaders-1.0.0","path":"io.gamemaker.sdfshaders-1.0.0.yyp",},
+  ],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -39,6 +41,7 @@
   },
   "name":"Flpa-Passaros",
   "resources":[
+    {"id":{"name":"fnt_pontos","path":"fonts/fnt_pontos/fnt_pontos.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"obj_arvore","path":"objects/obj_arvore/obj_arvore.yy",},},
     {"id":{"name":"obj_cara","path":"objects/obj_cara/obj_cara.yy",},},
@@ -51,6 +54,7 @@
     {"id":{"name":"spr_carcara","path":"sprites/spr_carcara/spr_carcara.yy",},},
     {"id":{"name":"spr_coruja","path":"sprites/spr_coruja/spr_coruja.yy",},},
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
+    {"id":{"name":"spr_level","path":"sprites/spr_level/spr_level.yy",},},
     {"id":{"name":"spr_lua","path":"sprites/spr_lua/spr_lua.yy",},},
     {"id":{"name":"spr_luaRefl","path":"sprites/spr_luaRefl/spr_luaRefl.yy",},},
     {"id":{"name":"spr_obstaculo","path":"sprites/spr_obstaculo/spr_obstaculo.yy",},},

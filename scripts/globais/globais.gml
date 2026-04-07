@@ -4,7 +4,11 @@
 
 global.perdeu = false;
 
+//Variáveis dos pontos
+global.pontos = 0;
 
+//Variável do level
+global.level = 1;
 
 #endregion 
 

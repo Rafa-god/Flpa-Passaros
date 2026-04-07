@@ -3,3 +3,6 @@
 game_restart();
 
 global.perdeu = false;
+
+//Resentando os pontos
+global.pontos = 0

@@ -28,6 +28,11 @@ de tempos em tempos ele vai criar um arvore em um posição especifa
 Passáros!
 Intervalo de criação dos passáros seja maior do que as das arvores
 
+Sistema de pontos
+Eu quero ganhar pontos o tempo todo se eu não perdi o jogo
+
+Sistema de level
+Ganhando levels conforme a gente ganha pontos
 
 Tela inicial
 
