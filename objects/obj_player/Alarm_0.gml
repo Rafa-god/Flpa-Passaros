@@ -8,3 +8,5 @@ global.perdeu = false;
 global.pontos = 0
 //Resetando o level
 global.level = 1;
+
+//Resetando os c
