@@ -1,5 +1,5 @@
 if (global.perdeu == false) {
-	global.pontos += 0.2;
+	global.pontos += 0.5;
 	
 	if (global.level < 9) {
 		var _pontos = global.lista_pontos[global.level - 1]
@@ -10,6 +10,8 @@ if (global.perdeu == false) {
 		global.level ++;	
 		}
 	}
+} else {
+		
 }
 
 
