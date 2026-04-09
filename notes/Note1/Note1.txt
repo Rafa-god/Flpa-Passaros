@@ -36,6 +36,16 @@ Ganhando levels conforme a gente ganha pontos
 
 Conforme eu aumento de level eu aumento a velocidade de todo mundo
 
+
+Sistema de coletaveis
+Variavel coletaveis
+Sprite dos coletaveis
+Exibir a quantidade de coletaveis na tela
+criar o objeto coletavel
+Criar a layer dos coletaveis
+Fazer ele ir para a esquerda
+
+
 Tela inicial
 
 

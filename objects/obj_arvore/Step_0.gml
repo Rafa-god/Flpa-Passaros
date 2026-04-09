@@ -9,11 +9,8 @@ else{
 
 
 if (x <=-120) {
-	instance_destroy(obj_arvore)	
-
+	instance_destroy()	
 }
-
-
 
 
 
