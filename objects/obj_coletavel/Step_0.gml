@@ -1,11 +1,6 @@
 if (global.perdeu = true) {
 	hspeed = 0;	
 }
-else{
-	//Se eu não perdi, eu faço isso
-	hspeed = - 1.5 - global.level;
-	
-}	
 
 
 if (x <=-120) {

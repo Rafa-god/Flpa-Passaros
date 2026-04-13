@@ -45,6 +45,8 @@ criar o objeto coletavel
 Criar a layer dos coletaveis
 Fazer ele ir para a esquerda
 
+Gerar automaticamente o coletavel
+
 
 Tela inicial
 

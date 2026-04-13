@@ -1,5 +1,5 @@
 
-var _meu_y = random_range(64, 288);
+var _meu_y = random_range(64, 320);
 
 //Criando a minha arvore
 instance_create_layer(704,_meu_y,"arvore", obj_coletavel)
