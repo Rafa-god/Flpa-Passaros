@@ -8,10 +8,14 @@ if (global.perdeu == false) {
 		//A pontuação equivalente ao level atual da lista de pontos
 		if(global.pontos >=  _pontos) {
 		global.level ++;	
+		
+		//Mudando a velocidade do background
+		layer_hspeed("bg_arvores", - global.level)
+		layer_hspeed("bg_reflexo_arvores", - global.level)
+		layer_hspeed("bg_reflexo_2", - global.level * 0.5)	
 		}
 	}
-} else {
+} 
 		
-}
 
 

@@ -49,8 +49,10 @@
     {"id":{"name":"obj_coletavel","path":"objects/obj_coletavel/obj_coletavel.yy",},},
     {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"globais","path":"scripts/globais/globais.yy",},},
+    {"id":{"name":"sq_inicio","path":"sequences/sq_inicio/sq_inicio.yy",},},
     {"id":{"name":"spr_agua","path":"sprites/spr_agua/spr_agua.yy",},},
     {"id":{"name":"spr_arvores","path":"sprites/spr_arvores/spr_arvores.yy",},},
     {"id":{"name":"spr_carcara","path":"sprites/spr_carcara/spr_carcara.yy",},},
@@ -69,6 +71,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},},
     {"roomId":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
   ],
   "templateType":"game",
