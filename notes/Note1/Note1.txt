@@ -49,7 +49,12 @@ Gerar automaticamente o coletavel
 
 
 Tela inicial
+Fazer o botão se desenhar 
+Criar uma fonte para o botão
+Use a fonte no texto do botão
+Fazer o botão desenhar o texto nele
 
-
+faça com o que o draw set font use a variável que foi criada no variable
+definition
 
 Tela loja
