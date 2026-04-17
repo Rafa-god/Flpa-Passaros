@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"ftn_botao",
+  "%Name":"fnt_botao",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":25,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":30,
   "maintainGms1Font":false,
-  "name":"ftn_botao",
+  "name":"fnt_botao",
   "parent":{
     "name":"Fonts",
     "path":"folders/Fonts.yy",

@@ -18,6 +18,11 @@ global.coletavel = 0;
 
 //Array é uma variavel que pode ter vários valores
 
+//Variável global com o destio da muinha transicao
+global.destino = rm_jogo
+
+//Variável para saber se a transicao foi iniciada
+global.transicao = false;
 
 #endregion 
 
@@ -45,6 +50,41 @@ function perde_jogo(){
 	//Avisando para o player reiniciar o jogo em 1 seg
 
 	alarm[0] = game_get_speed(gamespeed_fps);
+	
+	//Avisando que a room é o destino
+	global.destino = rm_inicio
+	
+	//Criando a transicao 1
+	layer_sequence_create("transicao", 0, 0, sq_transicao1)
 }
+
+
+function muda_room () {
+	
+	//indo para a room do jogo
+	room_goto(global.destino)
+	global.transicao = true;	
+
+
+}
+
+
+function finaliza_trasicao () {
+	
+	global.transicao = false;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #endregion

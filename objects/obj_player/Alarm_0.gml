@@ -1,6 +1,6 @@
 //Avisando que o jogo deve reiniciar em 1 seg
 
-game_restart();
+//game_restart();
 
 global.perdeu = false;
 
@@ -8,5 +8,5 @@ global.perdeu = false;
 global.pontos = 0
 //Resetando o level
 global.level = 1;
-
-//Resetando os c
+//Resetando os cOLETÁVEIS
+global.coletavel = 0;
